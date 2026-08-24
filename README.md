@@ -19,7 +19,7 @@ first was domain-agnostic: transcription, the LLM call with retry and error
 translation, tolerant JSON parsing, the data contracts. Products consume it
 through a single prompt-builder seam, so no domain leaks into the generic path.
 
-**playPro Stats** · [playprosystems.com](https://playprosystems.com)
+**PlayPro Stats** · [playprosystems.com](https://playprosystems.com)
 Voice play-by-play statistics for American football, built for a paying client.
 The model extracts only what was narrated — an unmentioned field stays absent,
 never a courtesy zero — while a deterministic rules engine computes downs,
